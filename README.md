@@ -7,10 +7,6 @@
 
 - 👯 I’m looking to collaborate on **anything (Game Dev is #1 priority)**
 
-- 📝 I regularly write articles on [https://crosline.github.io](https://crosline.github.io)
-
-- ⚡ Fun fact **I'm a garlic girl 🧄**
-
 <h3 align="left">Connect with me:</h3>
 
 
