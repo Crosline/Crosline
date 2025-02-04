@@ -1,16 +1,12 @@
-# 👋 Hi, I'm Crosline
+
 <div align="center">
+  👋 Hi, I'm Crosline
+  <br />
   Computer enthusiast and jack of all trades.
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=crosline&label=Profile%20views&color=0e75b6&style=flat)
-</div>
-
-## 🚀 About Me
-- 🌱 I'm currently learning **everything I can find**
-- 👯 I'm looking to collaborate on **anything (Game Dev is #1 priority)**
-
-## 📱 Connect with Me
-<div align="left">
+  <br />
+  <br />
+  
   <a href="https://discordapp.com/users/326659993606553600" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/crosline" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://twitter.com/cagkansan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -18,6 +14,13 @@
   <a href="https://fb.com/croslines" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/çağkan çağlayanel" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/crosline" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+</div>
+
+## 🚀 About Me
+<div align="center">
+🌱 I'm currently learning **everything I can find**
+  <br />
+👯 I'm looking to collaborate on **anything (Game Dev is #1 priority)**
 </div>
 
 ## 💻 Tech Stack
@@ -67,5 +70,7 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crosline&show_icons=true&theme=transparent&locale=en)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=crosline&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
