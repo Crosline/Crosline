@@ -19,7 +19,9 @@
 <div id="about" align="center">
 
 ## 🚀 About Me
-🌱 I'm currently learning **everything I can find**
+🌱 I'm currently learning **everything I can find**. Trying other technologies and languages in the process.
+Stumbled upon Computer Science and in love with it ever since.
+Working as a Full-Stack Software Engineer.
 </div>
 
 <div id="tech stack" align="center">
